@@ -1,4 +1,4 @@
-package infrastructure.repository;
+package com.pedro.usuario.infrastructure.repository;
 
 import com.joaopedro.aprendendo_spring.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
