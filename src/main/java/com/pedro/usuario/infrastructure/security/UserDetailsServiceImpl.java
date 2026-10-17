@@ -1,9 +1,9 @@
-package infrastructure.security;
+package com.pedro.usuario.infrastructure.security;
 
 
 
-import infrastructure.entity.Usuario;
-import infrastructure.repository.UsuarioRepository;
+import com.pedro.usuario.infrastructure.entity.Usuario;
+import com.pedro.usuario.infrastructure.repository.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
